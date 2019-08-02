@@ -1,5 +1,2 @@
-{
-    "prefix": "lc!",
-    "token": "NjA2NTkzNDc4NDI3ODAzODE5.XUNUrw.QKZ33wHaS2PQSMNeIq-rpJofMik"
-  }
-  
+const token = process.env.arcadia
+const prefix = 'lc!',
